@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+# Additional Information
+
+we use json-server library for fake api.
+
+### `npm run server`
+
+this is for your server run
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
